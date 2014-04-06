@@ -1,0 +1,4 @@
+c:\users\s.mohamadi\documents\visual studio 2010\Projects\Time Server\Time Server\bin\Debug\Time Server.exe
+c:\users\s.mohamadi\documents\visual studio 2010\Projects\Time Server\Time Server\bin\Debug\Time Server.pdb
+c:\users\s.mohamadi\documents\visual studio 2010\Projects\Time Server\Time Server\obj\x86\Debug\Time Server.exe
+c:\users\s.mohamadi\documents\visual studio 2010\Projects\Time Server\Time Server\obj\x86\Debug\Time Server.pdb

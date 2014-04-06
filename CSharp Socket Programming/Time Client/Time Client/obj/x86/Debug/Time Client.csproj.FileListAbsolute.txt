@@ -1,0 +1,4 @@
+c:\users\s.mohamadi\documents\visual studio 2010\Projects\Time Client\Time Client\bin\Debug\Time Client.exe
+c:\users\s.mohamadi\documents\visual studio 2010\Projects\Time Client\Time Client\bin\Debug\Time Client.pdb
+c:\users\s.mohamadi\documents\visual studio 2010\Projects\Time Client\Time Client\obj\x86\Debug\Time Client.exe
+c:\users\s.mohamadi\documents\visual studio 2010\Projects\Time Client\Time Client\obj\x86\Debug\Time Client.pdb
