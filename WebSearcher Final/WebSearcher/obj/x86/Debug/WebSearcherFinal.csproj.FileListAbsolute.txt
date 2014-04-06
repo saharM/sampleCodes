@@ -1,0 +1,64 @@
+D:\Dropbox\DM Docs\Class Materials\GNET May 2011\Student Materials\09_C# 3.0, 4.0, and 5.0\lab\C# 5\After\WebSearcher Final\WebSearcher\bin\Debug\WebSearcher.exe.config
+D:\Dropbox\DM Docs\Class Materials\GNET May 2011\Student Materials\09_C# 3.0, 4.0, and 5.0\lab\C# 5\After\WebSearcher Final\WebSearcher\obj\x86\Debug\WebSearcherFinal.csprojResolveAssemblyReference.cache
+D:\Dropbox\DM Docs\Class Materials\GNET May 2011\Student Materials\09_C# 3.0, 4.0, and 5.0\lab\C# 5\After\WebSearcher Final\WebSearcher\obj\x86\Debug\Views\MainWindow.baml
+D:\Dropbox\DM Docs\Class Materials\GNET May 2011\Student Materials\09_C# 3.0, 4.0, and 5.0\lab\C# 5\After\WebSearcher Final\WebSearcher\obj\x86\Debug\Views\Templates\SearchTermControl.baml
+D:\Dropbox\DM Docs\Class Materials\GNET May 2011\Student Materials\09_C# 3.0, 4.0, and 5.0\lab\C# 5\After\WebSearcher Final\WebSearcher\obj\x86\Debug\Views\MainWindow.g.cs
+D:\Dropbox\DM Docs\Class Materials\GNET May 2011\Student Materials\09_C# 3.0, 4.0, and 5.0\lab\C# 5\After\WebSearcher Final\WebSearcher\obj\x86\Debug\Views\Templates\SearchTermControl.g.cs
+D:\Dropbox\DM Docs\Class Materials\GNET May 2011\Student Materials\09_C# 3.0, 4.0, and 5.0\lab\C# 5\After\WebSearcher Final\WebSearcher\obj\x86\Debug\App.g.cs
+D:\Dropbox\DM Docs\Class Materials\GNET May 2011\Student Materials\09_C# 3.0, 4.0, and 5.0\lab\C# 5\After\WebSearcher Final\WebSearcher\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Dropbox\DM Docs\Class Materials\GNET May 2011\Student Materials\09_C# 3.0, 4.0, and 5.0\lab\C# 5\After\WebSearcher Final\WebSearcher\obj\x86\Debug\WebSearcher_MarkupCompile.cache
+D:\Dropbox\DM Docs\Class Materials\GNET May 2011\Student Materials\09_C# 3.0, 4.0, and 5.0\lab\C# 5\After\WebSearcher Final\WebSearcher\obj\x86\Debug\WebSearcher_MarkupCompile.lref
+D:\Dropbox\DM Docs\Class Materials\GNET May 2011\Student Materials\09_C# 3.0, 4.0, and 5.0\lab\C# 5\After\WebSearcher Final\WebSearcher\bin\Debug\WebSearcher.exe
+D:\Dropbox\DM Docs\Class Materials\GNET May 2011\Student Materials\09_C# 3.0, 4.0, and 5.0\lab\C# 5\After\WebSearcher Final\WebSearcher\bin\Debug\WebSearcher.pdb
+D:\Dropbox\DM Docs\Class Materials\GNET May 2011\Student Materials\09_C# 3.0, 4.0, and 5.0\lab\C# 5\After\WebSearcher Final\WebSearcher\bin\Debug\HtmlAgilityPack.dll
+D:\Dropbox\DM Docs\Class Materials\GNET May 2011\Student Materials\09_C# 3.0, 4.0, and 5.0\lab\C# 5\After\WebSearcher Final\WebSearcher\bin\Debug\Julmar.Core.dll
+D:\Dropbox\DM Docs\Class Materials\GNET May 2011\Student Materials\09_C# 3.0, 4.0, and 5.0\lab\C# 5\After\WebSearcher Final\WebSearcher\bin\Debug\Julmar.Wpf.Behaviors.dll
+D:\Dropbox\DM Docs\Class Materials\GNET May 2011\Student Materials\09_C# 3.0, 4.0, and 5.0\lab\C# 5\After\WebSearcher Final\WebSearcher\bin\Debug\JulMar.Wpf.Helpers.dll
+D:\Dropbox\DM Docs\Class Materials\GNET May 2011\Student Materials\09_C# 3.0, 4.0, and 5.0\lab\C# 5\After\WebSearcher Final\WebSearcher\bin\Debug\System.Windows.Interactivity.dll
+D:\Dropbox\DM Docs\Class Materials\GNET May 2011\Student Materials\09_C# 3.0, 4.0, and 5.0\lab\C# 5\After\WebSearcher Final\WebSearcher\bin\Debug\HtmlAgilityPack.pdb
+D:\Dropbox\DM Docs\Class Materials\GNET May 2011\Student Materials\09_C# 3.0, 4.0, and 5.0\lab\C# 5\After\WebSearcher Final\WebSearcher\bin\Debug\HtmlAgilityPack.xml
+D:\Dropbox\DM Docs\Class Materials\GNET May 2011\Student Materials\09_C# 3.0, 4.0, and 5.0\lab\C# 5\After\WebSearcher Final\WebSearcher\bin\Debug\Julmar.Core.pdb
+D:\Dropbox\DM Docs\Class Materials\GNET May 2011\Student Materials\09_C# 3.0, 4.0, and 5.0\lab\C# 5\After\WebSearcher Final\WebSearcher\bin\Debug\Julmar.Core.xml
+D:\Dropbox\DM Docs\Class Materials\GNET May 2011\Student Materials\09_C# 3.0, 4.0, and 5.0\lab\C# 5\After\WebSearcher Final\WebSearcher\bin\Debug\Julmar.Wpf.Behaviors.pdb
+D:\Dropbox\DM Docs\Class Materials\GNET May 2011\Student Materials\09_C# 3.0, 4.0, and 5.0\lab\C# 5\After\WebSearcher Final\WebSearcher\bin\Debug\Julmar.Wpf.Behaviors.xml
+D:\Dropbox\DM Docs\Class Materials\GNET May 2011\Student Materials\09_C# 3.0, 4.0, and 5.0\lab\C# 5\After\WebSearcher Final\WebSearcher\bin\Debug\JulMar.Wpf.Helpers.pdb
+D:\Dropbox\DM Docs\Class Materials\GNET May 2011\Student Materials\09_C# 3.0, 4.0, and 5.0\lab\C# 5\After\WebSearcher Final\WebSearcher\bin\Debug\JulMar.Wpf.Helpers.xml
+D:\Dropbox\DM Docs\Class Materials\GNET May 2011\Student Materials\09_C# 3.0, 4.0, and 5.0\lab\C# 5\After\WebSearcher Final\WebSearcher\bin\Debug\System.Windows.Interactivity.xml
+D:\Dropbox\DM Docs\Class Materials\GNET May 2011\Student Materials\09_C# 3.0, 4.0, and 5.0\lab\C# 5\After\WebSearcher Final\WebSearcher\obj\x86\Debug\App.baml
+D:\Dropbox\DM Docs\Class Materials\GNET May 2011\Student Materials\09_C# 3.0, 4.0, and 5.0\lab\C# 5\After\WebSearcher Final\WebSearcher\obj\x86\Debug\WebSearcher.g.resources
+D:\Dropbox\DM Docs\Class Materials\GNET May 2011\Student Materials\09_C# 3.0, 4.0, and 5.0\lab\C# 5\After\WebSearcher Final\WebSearcher\obj\x86\Debug\WebSearcher.Properties.Resources.resources
+D:\Dropbox\DM Docs\Class Materials\GNET May 2011\Student Materials\09_C# 3.0, 4.0, and 5.0\lab\C# 5\After\WebSearcher Final\WebSearcher\obj\x86\Debug\WebSearcherFinal.csproj.GenerateResource.Cache
+D:\Dropbox\DM Docs\Class Materials\GNET May 2011\Student Materials\09_C# 3.0, 4.0, and 5.0\lab\C# 5\After\WebSearcher Final\WebSearcher\obj\x86\Debug\WebSearcher.exe
+D:\Dropbox\DM Docs\Class Materials\GNET May 2011\Student Materials\09_C# 3.0, 4.0, and 5.0\lab\C# 5\After\WebSearcher Final\WebSearcher\obj\x86\Debug\WebSearcher.pdb
+D:\Dropbox\DM Docs\GNET Boston 2012\Student Materials\12_C# 4.0 and 5.0 [update]\Lab\C# 5\After\WebSearcher Final\WebSearcher\bin\Debug\WebSearcher.exe.config
+D:\Dropbox\DM Docs\GNET Boston 2012\Student Materials\12_C# 4.0 and 5.0 [update]\Lab\C# 5\After\WebSearcher Final\WebSearcher\obj\x86\Debug\WebSearcher.exe
+D:\Dropbox\DM Docs\GNET Boston 2012\Student Materials\12_C# 4.0 and 5.0 [update]\Lab\C# 5\After\WebSearcher Final\WebSearcher\obj\x86\Debug\WebSearcher.pdb
+D:\Dropbox\DM Docs\GNET Boston 2012\Student Materials\12_C# 4.0 and 5.0 [update]\Lab\C# 5\After\WebSearcher Final\WebSearcher\bin\Debug\WebSearcher.exe
+D:\Dropbox\DM Docs\GNET Boston 2012\Student Materials\12_C# 4.0 and 5.0 [update]\Lab\C# 5\After\WebSearcher Final\WebSearcher\bin\Debug\WebSearcher.pdb
+D:\Dropbox\DM Docs\GNET Boston 2012\Student Materials\12_C# 4.0 and 5.0 [update]\Lab\C# 5\After\WebSearcher Final\WebSearcher\bin\Debug\HtmlAgilityPack.dll
+D:\Dropbox\DM Docs\GNET Boston 2012\Student Materials\12_C# 4.0 and 5.0 [update]\Lab\C# 5\After\WebSearcher Final\WebSearcher\bin\Debug\Julmar.Core.dll
+D:\Dropbox\DM Docs\GNET Boston 2012\Student Materials\12_C# 4.0 and 5.0 [update]\Lab\C# 5\After\WebSearcher Final\WebSearcher\bin\Debug\Julmar.Wpf.Behaviors.dll
+D:\Dropbox\DM Docs\GNET Boston 2012\Student Materials\12_C# 4.0 and 5.0 [update]\Lab\C# 5\After\WebSearcher Final\WebSearcher\bin\Debug\JulMar.Wpf.Helpers.dll
+D:\Dropbox\DM Docs\GNET Boston 2012\Student Materials\12_C# 4.0 and 5.0 [update]\Lab\C# 5\After\WebSearcher Final\WebSearcher\bin\Debug\System.Windows.Interactivity.dll
+D:\Dropbox\DM Docs\GNET Boston 2012\Student Materials\12_C# 4.0 and 5.0 [update]\Lab\C# 5\After\WebSearcher Final\WebSearcher\bin\Debug\HtmlAgilityPack.pdb
+D:\Dropbox\DM Docs\GNET Boston 2012\Student Materials\12_C# 4.0 and 5.0 [update]\Lab\C# 5\After\WebSearcher Final\WebSearcher\bin\Debug\HtmlAgilityPack.xml
+D:\Dropbox\DM Docs\GNET Boston 2012\Student Materials\12_C# 4.0 and 5.0 [update]\Lab\C# 5\After\WebSearcher Final\WebSearcher\bin\Debug\Julmar.Core.pdb
+D:\Dropbox\DM Docs\GNET Boston 2012\Student Materials\12_C# 4.0 and 5.0 [update]\Lab\C# 5\After\WebSearcher Final\WebSearcher\bin\Debug\Julmar.Core.xml
+D:\Dropbox\DM Docs\GNET Boston 2012\Student Materials\12_C# 4.0 and 5.0 [update]\Lab\C# 5\After\WebSearcher Final\WebSearcher\bin\Debug\Julmar.Wpf.Behaviors.pdb
+D:\Dropbox\DM Docs\GNET Boston 2012\Student Materials\12_C# 4.0 and 5.0 [update]\Lab\C# 5\After\WebSearcher Final\WebSearcher\bin\Debug\Julmar.Wpf.Behaviors.xml
+D:\Dropbox\DM Docs\GNET Boston 2012\Student Materials\12_C# 4.0 and 5.0 [update]\Lab\C# 5\After\WebSearcher Final\WebSearcher\bin\Debug\JulMar.Wpf.Helpers.pdb
+D:\Dropbox\DM Docs\GNET Boston 2012\Student Materials\12_C# 4.0 and 5.0 [update]\Lab\C# 5\After\WebSearcher Final\WebSearcher\bin\Debug\JulMar.Wpf.Helpers.xml
+D:\Dropbox\DM Docs\GNET Boston 2012\Student Materials\12_C# 4.0 and 5.0 [update]\Lab\C# 5\After\WebSearcher Final\WebSearcher\bin\Debug\System.Windows.Interactivity.xml
+D:\Dropbox\DM Docs\GNET Boston 2012\Student Materials\12_C# 4.0 and 5.0 [update]\Lab\C# 5\After\WebSearcher Final\WebSearcher\obj\x86\Debug\WebSearcherFinal.csprojResolveAssemblyReference.cache
+D:\Dropbox\DM Docs\GNET Boston 2012\Student Materials\12_C# 4.0 and 5.0 [update]\Lab\C# 5\After\WebSearcher Final\WebSearcher\obj\x86\Debug\Views\MainWindow.baml
+D:\Dropbox\DM Docs\GNET Boston 2012\Student Materials\12_C# 4.0 and 5.0 [update]\Lab\C# 5\After\WebSearcher Final\WebSearcher\obj\x86\Debug\Views\Templates\SearchTermControl.baml
+D:\Dropbox\DM Docs\GNET Boston 2012\Student Materials\12_C# 4.0 and 5.0 [update]\Lab\C# 5\After\WebSearcher Final\WebSearcher\obj\x86\Debug\Views\MainWindow.g.cs
+D:\Dropbox\DM Docs\GNET Boston 2012\Student Materials\12_C# 4.0 and 5.0 [update]\Lab\C# 5\After\WebSearcher Final\WebSearcher\obj\x86\Debug\Views\Templates\SearchTermControl.g.cs
+D:\Dropbox\DM Docs\GNET Boston 2012\Student Materials\12_C# 4.0 and 5.0 [update]\Lab\C# 5\After\WebSearcher Final\WebSearcher\obj\x86\Debug\App.g.cs
+D:\Dropbox\DM Docs\GNET Boston 2012\Student Materials\12_C# 4.0 and 5.0 [update]\Lab\C# 5\After\WebSearcher Final\WebSearcher\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Dropbox\DM Docs\GNET Boston 2012\Student Materials\12_C# 4.0 and 5.0 [update]\Lab\C# 5\After\WebSearcher Final\WebSearcher\obj\x86\Debug\WebSearcher_MarkupCompile.cache
+D:\Dropbox\DM Docs\GNET Boston 2012\Student Materials\12_C# 4.0 and 5.0 [update]\Lab\C# 5\After\WebSearcher Final\WebSearcher\obj\x86\Debug\WebSearcher_MarkupCompile.lref
+D:\Dropbox\DM Docs\GNET Boston 2012\Student Materials\12_C# 4.0 and 5.0 [update]\Lab\C# 5\After\WebSearcher Final\WebSearcher\obj\x86\Debug\App.baml
+D:\Dropbox\DM Docs\GNET Boston 2012\Student Materials\12_C# 4.0 and 5.0 [update]\Lab\C# 5\After\WebSearcher Final\WebSearcher\obj\x86\Debug\WebSearcher.g.resources
+D:\Dropbox\DM Docs\GNET Boston 2012\Student Materials\12_C# 4.0 and 5.0 [update]\Lab\C# 5\After\WebSearcher Final\WebSearcher\obj\x86\Debug\WebSearcher.Properties.Resources.resources
+D:\Dropbox\DM Docs\GNET Boston 2012\Student Materials\12_C# 4.0 and 5.0 [update]\Lab\C# 5\After\WebSearcher Final\WebSearcher\obj\x86\Debug\WebSearcherFinal.csproj.GenerateResource.Cache

@@ -1,0 +1,12 @@
+﻿<Application x:Class="WebSearcher.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+             xmlns:models="clr-namespace:WebSearcher.Models" 
+             xmlns:templates="clr-namespace:WebSearcher.Views.Templates" 
+             StartupUri="Views/MainWindow.xaml">
+    <Application.Resources>
+        <DataTemplate DataType="{x:Type models:SearchResult}">
+            <templates:SearchTermControl />
+        </DataTemplate>
+    </Application.Resources>
+</Application>
